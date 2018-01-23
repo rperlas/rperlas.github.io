@@ -363,6 +363,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .descriptor li {
   clear: both;
   border-bottom: none;
+  margin-bottom: 0px;
 }
 
 /* Portfolio */
