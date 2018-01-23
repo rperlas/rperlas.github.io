@@ -356,6 +356,15 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   clear: both;
 }
 
+.descriptor {
+  list-style-type: circle;
+}
+
+.descriptor li {
+  clear: both;
+  border-bottom: none;
+}
+
 /* Portfolio */
 .image{
   position: relative;
