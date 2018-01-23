@@ -345,9 +345,11 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .work li h5{
   float: left;
+  margin-bottom: 1%;
 }
 .work li b{
   clear: both;
+  float: left;
 }
 .work li p{
   clear: both;
